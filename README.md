@@ -1,8 +1,10 @@
+
 Prerequisites:
 Azure Subscription: You'll need an active Azure account.
 Install Terraform: Make sure Terraform is installed on your local machine.
 Install Azure CLI: The Azure CLI is necessary for authentication.
 Service Principal: Terraform uses a Service Principal to authenticate to Azure. You can create one using the Azure CLI.
+----------------------
 
 Breakdown of the Configuration:
 Resource Group: A new resource group is created to house the VM and networking resources.
